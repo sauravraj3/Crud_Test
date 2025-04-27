@@ -48,7 +48,7 @@ const Create = () => {
             type="text"
             className="form-control"
             id="exampleInputName1"
-            placeholder="Name"
+            placeholder="Enter your Name"
             onChange={(e) => setName(e.target.value)}
           />
         </div>
